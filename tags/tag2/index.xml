@@ -6,10 +6,19 @@
     <description>Recent content in tag2 on Gaurab&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 01:11:55 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 02:13:47 +0530</lastBuildDate>
     
 	<atom:link href="https://gaurabdg.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postdeployment</title>
+      <link>https://gaurabdg.github.io/2019/12/postdeployment/</link>
+      <pubDate>Fri, 20 Dec 2019 02:13:47 +0530</pubDate>
+      
+      <guid>https://gaurabdg.github.io/2019/12/postdeployment/</guid>
+      <description>&lt;h1 id=&#34;post-deployment-test&#34;&gt;Post Deployment Test!&lt;/h1&gt;</description>
+    </item>
     
     <item>
       <title>Test</title>
