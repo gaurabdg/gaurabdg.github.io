@@ -1,0 +1,12 @@
+.category-title {
+    margin: 0 auto;
+    max-width: 750px;
+    font-size: 4em;
+    font-weight: 100;
+    border-bottom: solid 1px #ccc;
+}
+
+.category-subtitle {
+    font-size: 0.65em;
+    margin-left: 40px;
+}
